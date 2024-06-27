@@ -1,5 +1,6 @@
 # fischertechnik Maker-Kits
 This repository contains some small examples for different boards.
+> If you have any questions, please contact fischertechnik-technik@fischer.de
 
 ## Links
 - [fischertechnik Maker](https://www.fischertechnik.de/de-de/maker)
