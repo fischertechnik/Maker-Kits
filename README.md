@@ -11,8 +11,11 @@ This repository contains some examples for different boards.
   <img src="images/Laufkatze-vorne.jpg" width="300" />
 
 * **ftCommunity: Computing Das „Bionic Maker Kit“ (Jeroen Regtien)**
-  * [ftpedia-2024-2](https://www.ftcommunity.de/ftpedia/2024/2024-2/ftpedia-2024-2.pdf#page=69)(German)
+  * [ftpedia-2024-2](https://www.ftcommunity.de/ftpedia/2024/2024-2/ftpedia-2024-2.pdf#page=69) (German)
   * [Youtube Video: 2024 Bionic Maker kit first impression](https://www.youtube.com/watch?v=2sVy2LvaqDo)
+
+* **fischertechnik TXT 4.0 Controller + PCA9685 16-Channel Servo Driver**
+Examples for [TXT 4.0 controller](https://www.fischertechnik.de/txt40controller) can be imported in [ROBO Pro Coding](https://www.fischertechnik.de/en/toys/apps-and-software) App
  
 ## [Maker Kit Omniwheels](https://www.fischertechnik.de/de-de/produkte/maker/571901-maker-kit-omniwheels)
 [ [Building instructions](https://apps.fischer.de/ecom/fischertechnik/digitale-bauanleitungen/maker-kit-omniwheels.htm) | [datasheets](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/maker/maker-landingpage/datenblattencodermotorschwarzmakerpdf.pdf) ]
