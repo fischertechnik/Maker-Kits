@@ -10,11 +10,15 @@ This repository contains some small examples for different boards.
 
 ## Maker Kit Bionic
 
-#### Arduino Uno + PCA9685 16-Channel Servo Driver:
-[ftOpenCat](https://github.com/AlexanderSteiger/ftOpenCat) using [Arduino Uno Rev3](https://store.arduino.cc/collections/boards-modules/products/arduino-uno-rev3-smd) and [Adafruit PCA9685 16-Channel Servo Driver](https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all)
+* **Arduino Uno + PCA9685 16-Channel Servo Driver**:
+  * [ftOpenCat](https://github.com/AlexanderSteiger/ftOpenCat) using [Arduino Uno Rev3](https://store.arduino.cc/collections/boards-modules/products/arduino-uno-rev3-smd) and [Adafruit PCA9685 16-Channel Servo Driver](https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all)
 
-<img style="float: right;" src="images/Laufkatze-vorne.jpg" width="300" />
+  <img src="images/Laufkatze-vorne.jpg" width="300" />
 
+* **ftCommunity: Computing Das „Bionic Maker Kit“ (Jeroen Regtien)**
+  * [ftpedia-2024-2](https://www.ftcommunity.de/ftpedia/2024/2024-2/ftpedia-2024-2.pdf#page=69)(German)
+  * [Youtube Video: 2024 Bionic Maker kit first impression](https://www.youtube.com/watch?v=2sVy2LvaqDo)
+ 
 ## Maker Kit Omniwheels
 
 #### Arduino Uno:
