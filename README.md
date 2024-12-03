@@ -36,6 +36,9 @@ This repository contains some examples for different boards.
 ## [Maker Kit Car](https://www.fischertechnik.de/de-de/produkte/maker/571900-maker-kit-car)
 [ [Building instructions](https://apps.fischer.de/ecom/fischertechnik/digitale-bauanleitungen/maker-kit-car.htm) | [datasheets](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/maker/maker-landingpage/datenblaetter_maker_kit_car.pdf) ]
 
+* **Example with ESP32 (Martin Mohr)**
+  * [Youtube Video: fischertechnik Maker Kit Car](https://www.youtube.com/watch?v=uoIjeCVgteE)
+
 * **fischertechnik Receiver BT Control Set**
   
   fischertechnik [Receiver BT Control Set](https://www.fischertechnik.de/en/products/spare-parts/electronics/161943-receiver-bt-control-set) and [Bluetooth Control](https://www.fischertechnik.de/en/toys/apps-and-software) App
