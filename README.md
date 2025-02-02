@@ -41,7 +41,7 @@ This repository contains some examples for different boards.
 
 * **fischertechnik Receiver BT Control Set**
   
-  fischertechnik [Receiver BT Control Set](https://www.fischertechnik.de/en/products/spare-parts/electronics/161943-receiver-bt-control-set) and [Bluetooth Control](https://www.fischertechnik.de/en/toys/apps-and-software) App
+  fischertechnik [Receiver BT Control Set](https://www.fischertechnik.de/en/products/spare-parts/electronics/161943-receiver-bt-control-set) and [Bluetooth Control](https://www.fischertechnik.de/en/apps-and-software) App
   
   <img style="float: right;" src="images/Car.jpg" width="300" />
 
