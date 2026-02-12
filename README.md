@@ -18,7 +18,7 @@ This repository contains some examples for different boards.
 
 * **fischertechnik TXT 4.0 Controller + PCA9685 16-Channel Servo Driver**
   
-  Examples for [TXT 4.0 controller](https://www.fischertechnik.de/txt40controller) can be imported in [ROBO Pro Coding](https://www.fischertechnik.de/en/toys/apps-and-software) App
+  Examples for [TXT 4.0 controller](https://www.fischertechnik.de/txt40controller) can be imported in [ROBO Pro Coding](https://www.fischertechnik.de/en/apps-and-software) App
  
 ## [Maker Kit Omniwheels](https://www.fischertechnik.de/de-de/produkte/maker/571901-maker-kit-omniwheels)
 [ [Building instructions](https://apps.fischer.de/ecom/fischertechnik/digitale-bauanleitungen/maker-kit-omniwheels.htm) | [datasheets](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/maker/maker-landingpage/datenblattencodermotorschwarzmakerpdf.pdf) ]
@@ -31,7 +31,7 @@ This repository contains some examples for different boards.
 
 * **fischertechnik TXT 4.0 Controller**
   
-  Examples for [TXT 4.0 controller](https://www.fischertechnik.de/txt40controller) can be imported in [ROBO Pro Coding](https://www.fischertechnik.de/en/toys/apps-and-software) App
+  Examples for [TXT 4.0 controller](https://www.fischertechnik.de/txt40controller) can be imported in [ROBO Pro Coding](https://www.fischertechnik.de/en/apps-and-software) App
   
 ## [Maker Kit Car](https://www.fischertechnik.de/de-de/produkte/maker/571900-maker-kit-car)
 [ [Building instructions](https://apps.fischer.de/ecom/fischertechnik/digitale-bauanleitungen/maker-kit-car.htm) | [datasheets](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/maker/maker-landingpage/datenblaetter-maker-kit-car.pdf) ]
