@@ -47,4 +47,4 @@ This repository contains some examples for different boards.
 
 * **fischertechnik TXT 4.0 Controller**
   
-  Examples for [TXT 4.0 controller](https://www.fischertechnik.de/txt40controller) can be imported in [ROBO Pro Coding](https://www.fischertechnik.de/en/toys/apps-and-software) App
+  Examples for [TXT 4.0 controller](https://www.fischertechnik.de/txt40controller) can be imported in [ROBO Pro Coding](https://www.fischertechnik.de/en/apps-and-software) App
