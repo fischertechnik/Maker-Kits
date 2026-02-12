@@ -34,7 +34,7 @@ This repository contains some examples for different boards.
   Examples for [TXT 4.0 controller](https://www.fischertechnik.de/txt40controller) can be imported in [ROBO Pro Coding](https://www.fischertechnik.de/en/toys/apps-and-software) App
   
 ## [Maker Kit Car](https://www.fischertechnik.de/de-de/produkte/maker/571900-maker-kit-car)
-[ [Building instructions](https://apps.fischer.de/ecom/fischertechnik/digitale-bauanleitungen/maker-kit-car.htm) | [datasheets](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/maker/maker-landingpage/datenblaetter_maker_kit_car.pdf) ]
+[ [Building instructions](https://apps.fischer.de/ecom/fischertechnik/digitale-bauanleitungen/maker-kit-car.htm) | [datasheets](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/maker/maker-landingpage/datenblaetter-maker-kit-car.pdf) ]
 
 * **Example with ESP32 (Martin Mohr)**
   * [Youtube Video: fischertechnik Maker Kit Car](https://www.youtube.com/watch?v=uoIjeCVgteE)
